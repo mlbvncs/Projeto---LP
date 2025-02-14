@@ -1,2 +1,2 @@
 # Projeto---LP
-Projeto final da matéria Linguagem de Programação.
+Projeto final (já alimentado com arquivos) da matéria Linguagem de Programação.
